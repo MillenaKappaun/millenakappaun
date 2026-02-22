@@ -6,10 +6,11 @@
   Hi, I'm Millena Kappaun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
 </h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">&nbsp;
 <h2 align="center">Sobre mim...</h2>
 
 <p align="center">Sou uma dev que sempre busca priorizar o aprendizado, pois tenho como objetivo sempre me desenvolver como pessoa, explorando minhas capacidades. Na área de T.I percebo que sempre necessito estar buscando por conceitos e habilidades, isso me motiva! <br>Fiz a escolha certa em me aventurar nessa área de tecnologia.</p>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">&nbsp;
 <img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" min-width="200px" max-width="600px" width="400px" align="right" alt="Gif">
 &nbsp;
 &nbsp;

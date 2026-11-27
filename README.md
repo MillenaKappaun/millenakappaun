@@ -1,41 +1,77 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">&nbsp;
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <h1 align="center">
-  Hi, I'm Millena Kappaun
+  Olá, eu sou Millena Kappaun!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
 </h1>
-<h2 align="center">Sobre mim...</h2>
 
-<p align="center">Sou uma dev que sempre busca priorizar o aprendizado, pois tenho como objetivo sempre me desenvolver como pessoa, explorando minhas capacidades. Na área de T.I percebo que sempre necessito estar buscando por conceitos e habilidades, isso me motiva! <br>Fiz a escolha certa em me aventurar nessa área de tecnologia.</p>&nbsp;
-<img src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" min-width="200px" max-width="600px" width="400px" align="right" alt="Gif">
-&nbsp;
-&nbsp;
+<h3 align="center">
+  Desenvolvimento de Software • Automação • Inovação
+</h3>
 
-#### Conhecimentos:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Static Badge](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge)&nbsp;
+<p align="center">
+  <i>Transformando ideias em soluções através da tecnologia.</i>
+</p>
 
+<br>
 
-#### Editor de codigo fonte:
+## ✦ Sobre mim
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+Sou apaixonada por tecnologia, criatividade e aprendizado contínuo. Acredito que a programação vai além do código: é uma ferramenta para transformar problemas reais em oportunidades.
 
+Minha experiência na área administrativa despertou meu interesse pela automação de processos e pelo desenvolvimento de soluções digitais voltadas à produtividade e à eficiência.
 
-#### Outras tecnologias/ferramentas que uso:
-![Static Badge](https://img.shields.io/badge/Canva-41E0FD?style=for-the-badge)&nbsp;
-![Static Badge](https://img.shields.io/badge/I.A-313131?style=for-the-badge)&nbsp;
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software, explorando novas tecnologias e construindo minha trajetória no empreendedorismo tecnológico.
 
+<br>
 
-## Contatos:
+## 💻 Tecnologias e conhecimentos
 
-<div> 
-<a href="https://www.instagram.com/mille_kppn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,nodejs,electron,mysql,sqlite&perline=10" />
+</p>
+
+<br>
+
+## 🛠️ Ferramentas e ambiente de desenvolvimento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
+</p>
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-313131?style=for-the-badge)
+
+<br>
+
+## 🚀 Meus objetivos
+
+- Aprimorar minhas habilidades em desenvolvimento de software.
+- Desenvolver soluções para problemas reais.
+- Explorar a automação de processos empresariais.
+- Construir produtos digitais com propósito.
+- Empreender através da tecnologia e da inovação.
+
+<br>
+
+## 📫 Vamos nos conectar?
+
+<a href="https://www.instagram.com/mille_kppn">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.kappaunmillena@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">&nbsp;
+<a href="mailto:contato.kappaunmillena@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br>
+<br>
+
+<p align="center">
+  <i>Aprender é o começo. Construir é o caminho. Transformar é o propósito.</i>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
